@@ -30,20 +30,28 @@ Website: https://aeroefficient.net/
 ## Results and Validation
 Report measured model performance 
 For wings : CL : Gradient Boost
+
 R2 Score: 0.9703372005139083
+
 MSE: 0.005186140635556057
 
 CD: Gradient boost
+
 R2 Score: 0.9608367668512932
+
 MSE: 3.679891704940347e-06
 
 For airfoils : 
 Training CL model...
+
 CL Model - R² Score: 0.9925
+
 CL Model - MSE: 0.0011
 
 Training CD model...
+
 CD Model - R² Score: 0.9528
+
 CD Model - MSE: 0.0000
 
 ## Limitations
